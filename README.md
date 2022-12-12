@@ -19,7 +19,7 @@ import numpy as np
 A = np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
 rank = np.linalg.matrix_rank(A)
 print(rank)
-
+```
 ## Output:
 ![OUTPUT](./Images/exp2output.png)
 ## Result:
